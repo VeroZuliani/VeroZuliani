@@ -1,4 +1,4 @@
-### Hi there 👋
+![Banner](https://github.com/VeroZuliani/VeroZuliani/assets/133280626/125e4acf-839f-4476-9e4f-4864892137c1)
 
 <!--
 **VeroZuliani/VeroZuliani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

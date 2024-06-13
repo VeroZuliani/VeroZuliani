@@ -1,13 +1,15 @@
 ![Banner](Banner.png)
 
-### *Acerca de Mi*
+## *Acerca de Mi*
 
 Programadora Full Stack de desarrollo web y de aplicaciones
+
 Actualmente realizo un curso de Programación Web Full Stack para aumentar mis conocimientos y habilidades
+
 En busca de nuevos retos y oprtunidades. 
 
 ---
-### *Redes Sociales*
+## *Redes Sociales*
 
 <p align="left"> <a href="https://www.linkedin.com/in/veronica-zuliani" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 

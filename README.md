@@ -6,7 +6,7 @@ Programadora Full Stack de desarrollo web y de aplicaciones
 
 Actualmente realizo un curso de Programación Web Full Stack para aumentar mis conocimientos y habilidades
 
-En busca de nuevos retos y oprtunidades. 
+En busca de nuevos retos y oportunidades. 
 
 ---
 ## *Redes Sociales*

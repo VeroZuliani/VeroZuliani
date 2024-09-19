@@ -4,7 +4,9 @@
 
 Programadora Full Stack de desarrollo web y de aplicaciones
 
-Actualmente realizo un curso de Programación Web Full Stack para aumentar mis conocimientos y habilidades
+
+Recibida como Técnica Superior en Programación en la UTN-FRC
+Actualmente he concluido un curso de Programación Web Front End para aumentar mis conocimientos y habilidades
 
 En busca de nuevos retos y oportunidades. 
 
